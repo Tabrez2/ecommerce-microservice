@@ -1,0 +1,6 @@
+server:
+  port: 8090
+spring:
+  data:
+    mongodb:
+      uri: mongodb://tabrez:tabrez@localhost:27017/customer?authSource=admin
